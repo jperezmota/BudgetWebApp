@@ -8,7 +8,9 @@ A Web Application to register your Income and Expenses to give you visibility of
 
 ## Built with
 
-* Vanilla JavaScript using the Module Pattern.
+This app was built for academic purpose using:
+
+* Vanilla JavaScript aplying the Module Pattern.
 
 If you want to learn more about the pattern, please read the following article: [JavaScript Module Pattern by Ben Cherry](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
  
@@ -25,4 +27,8 @@ git clone https://github.com/jperezmota/pig-dice-game.git
 Want to add any feature? just register it here: [Issues](https://github.com/jperezmota/budget-web-app/issues) and code it. Feel free also to work in any of the pending Git Issues.
 
 Keep your finances organized!!
+
+## Contact me
+
+Feel free to contact me if you need any help! jonathanperezmota@gmail.com
 
