@@ -8,7 +8,7 @@ A Web Application to register your Income and Expenses to give you visibility of
 
 ## Built with
 
-This app was built for academic purpose using:
+This app was built for academic purposes using:
 
 * Vanilla JavaScript aplying the Module Pattern.
 
